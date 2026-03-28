@@ -34,4 +34,4 @@ The model successfully predicts temperature trends and shows good alignment with
 - Improve prediction accuracy
 
 ## 🔗 Author
-Your Name
+Akhil
